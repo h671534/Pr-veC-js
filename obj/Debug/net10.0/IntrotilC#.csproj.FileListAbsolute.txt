@@ -1,0 +1,4 @@
+C:\Users\elara\OneDrive\Skrivebord\IntrotilC#\obj\Debug\net10.0\IntrotilC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elara\OneDrive\Skrivebord\IntrotilC#\obj\Debug\net10.0\IntrotilC#.AssemblyInfoInputs.cache
+C:\Users\elara\OneDrive\Skrivebord\IntrotilC#\obj\Debug\net10.0\IntrotilC#.AssemblyInfo.cs
+C:\Users\elara\OneDrive\Skrivebord\IntrotilC#\obj\Debug\net10.0\IntrotilC#.csproj.CoreCompileInputs.cache

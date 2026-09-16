@@ -1,0 +1,14 @@
+C:\Users\elara\OneDrive\Skrivebord\IntrotilC#\TestConsoleApp\bin\Debug\net10.0\TestConsoleApp.exe
+C:\Users\elara\OneDrive\Skrivebord\IntrotilC#\TestConsoleApp\bin\Debug\net10.0\TestConsoleApp.deps.json
+C:\Users\elara\OneDrive\Skrivebord\IntrotilC#\TestConsoleApp\bin\Debug\net10.0\TestConsoleApp.runtimeconfig.json
+C:\Users\elara\OneDrive\Skrivebord\IntrotilC#\TestConsoleApp\bin\Debug\net10.0\TestConsoleApp.dll
+C:\Users\elara\OneDrive\Skrivebord\IntrotilC#\TestConsoleApp\bin\Debug\net10.0\TestConsoleApp.pdb
+C:\Users\elara\OneDrive\Skrivebord\IntrotilC#\TestConsoleApp\obj\Debug\net10.0\TestConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elara\OneDrive\Skrivebord\IntrotilC#\TestConsoleApp\obj\Debug\net10.0\TestConsoleApp.AssemblyInfoInputs.cache
+C:\Users\elara\OneDrive\Skrivebord\IntrotilC#\TestConsoleApp\obj\Debug\net10.0\TestConsoleApp.AssemblyInfo.cs
+C:\Users\elara\OneDrive\Skrivebord\IntrotilC#\TestConsoleApp\obj\Debug\net10.0\TestConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\elara\OneDrive\Skrivebord\IntrotilC#\TestConsoleApp\obj\Debug\net10.0\TestConsoleApp.dll
+C:\Users\elara\OneDrive\Skrivebord\IntrotilC#\TestConsoleApp\obj\Debug\net10.0\refint\TestConsoleApp.dll
+C:\Users\elara\OneDrive\Skrivebord\IntrotilC#\TestConsoleApp\obj\Debug\net10.0\TestConsoleApp.pdb
+C:\Users\elara\OneDrive\Skrivebord\IntrotilC#\TestConsoleApp\obj\Debug\net10.0\TestConsoleApp.genruntimeconfig.cache
+C:\Users\elara\OneDrive\Skrivebord\IntrotilC#\TestConsoleApp\obj\Debug\net10.0\ref\TestConsoleApp.dll
